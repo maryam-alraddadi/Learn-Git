@@ -15,7 +15,7 @@ Learn-Git هو repository يحتوي على ملاحظاتي وماتعلمته 
 - [Ch01 -  مقدمة في Git ](https://github.com/maryam-alraddadi/Learn-Git/tree/main/Ch01)
   - [01](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch01/01.md) - لماذا نحتاج Git ؟
   - [02](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch01/02.md) - ماهي انظمة التحكم بالنسخ VCS ؟
-  - [03](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch01/01.md) - انواع انظمه التحكم بالنسخ
+  - [03](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch01/03.md) - انواع انظمه التحكم بالنسخ
 
 - [Ch02 - تحميل Git](https://github.com/maryam-alraddadi/Learn-Git/tree/main/Ch02)
   - [01](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch02/01.md) - تنزيل Git على نظام Windows
@@ -37,7 +37,7 @@ Learn-Git هو repository يحتوي على ملاحظاتي وماتعلمته 
  
 - [Ch05 - تاريخ المشزوع Git log](https://github.com/maryam-alraddadi/Learn-Git/tree/main/Ch05)
   - [01](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch05/01.md) - الامر git log
-  - [02](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch05/01.md) - الامر git log --oneline
+  - [02](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch05/02.md) - الامر git log --oneline
 - [Ch06 - الفروع Git branches](https://github.com/maryam-alraddadi/Learn-Git/tree/main/Ch06)
   - [01](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch06/01.md) - الفروع Git branches
   - [02](https://github.com/maryam-alraddadi/Learn-Git/blob/main/Ch06/02.md) - انشاء وعرض الbranches
